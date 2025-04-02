@@ -211,4 +211,4 @@ git push origin main
 
 ---
 
-This is the basic workflow you'll use when building your website template! Want to try adding an **index.html** file next? 😊
+This is the basic workflow you'll use when building your website template! 
